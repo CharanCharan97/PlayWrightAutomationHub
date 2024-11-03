@@ -1,0 +1,11 @@
+{
+    "locators":{
+        "userName":"//input[@data-qa='login-email']",
+        "password":"//input[@name='password']",
+        "login":"//button[text()='Login']",
+        "loginPage":".fa.fa-lock",
+        "loggedIn":"//*[text()=' Logged in as ']",
+        "loginErrorMessage":"//p[text()='Your email or password is incorrect!']",
+        "logout":"//a[text()=' Logout']"
+    }
+}

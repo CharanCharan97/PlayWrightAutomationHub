@@ -1,0 +1,7 @@
+{
+    "loginCredentials":{
+        "userName":"charantest@gmail.com",
+        "password":"Admin@123",
+        "invalidPassword":"AdMin@123fd"
+    }
+}
